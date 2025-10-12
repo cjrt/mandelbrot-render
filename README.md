@@ -1,7 +1,5 @@
 # Interactive Mandelbrot Render In SDL
 
-Good way to stress test your PC: How many MAX_ITER can you smoothly run.
-
 Use mouse scroll wheel to go in/out.
 
 ![Render1](https://github.com/cjrt/mandelbrot-render/blob/main/pics/mandelbrot.png)
