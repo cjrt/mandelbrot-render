@@ -5,11 +5,11 @@ Use mouse scroll wheel to go in/out.
 ![Render1](https://github.com/cjrt/mandelbrot-render/blob/main/pics/mandelbrot.png)
 
 # Formulas
-"pixel_to_complex" function
+"mandelbrot" function
 
 ![Formula1](https://github.com/cjrt/mandelbrot-render/blob/main/pics/mandelbrotiterationformula.png)
 
-"mandelbrot" function
+"pixel_to_complex" function
 
 ![Formula2](https://github.com/cjrt/mandelbrot-render/blob/main/pics/pixeltocomplexformula.png)
 
